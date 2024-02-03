@@ -119,8 +119,9 @@
 				<version>2.5.1</version>
 				<inherited>true</inherited>
 				<configuration>
-					<source>8.0.362.9</source>
-					<target>8.0.362.9</target>
+					<jdkHome>/path/to/your/jdk</jdkHome>
+                                        <source>17.0.10</source>
+                                        <target>17.0.10</target>
 				</configuration>
 			</plugin>
 		</plugins>
